@@ -24,7 +24,7 @@ We will be exploring three different CNN models in our project.
 This project uses python 3.5.2. Clone the GitHub repository and use Pip to install jupyter and other dependencies listed, if not already done.
 
 ```
-$ git clone https://github.com/diyjac/titanic_survival_exploration.git
+$ git clone https://github.com/diyjac/SDC-P2.git
 $ pip install jupyter
 $ pip install matplotlib
 $ pip install numpy
