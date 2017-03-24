@@ -48,7 +48,7 @@ No further updates nor contributions are requested.  This project is static.
 
 ## License
 
-SDC-P1 results are released under the [MIT License](./LICENSE)
+SDC-P2 results are released under the [MIT License](./LICENSE)
 
 ## NOTES
 1. Please contact me if you wish to get the 2GB modelv3.ckpt session save files, or the 4GB modelv4.ckpt session files.  They are too large to include for github.
